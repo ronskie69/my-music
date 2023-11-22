@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-music/static/css/main.1eb46796.chunk.css",
+    "main.js": "/my-music/static/js/main.35c88a25.chunk.js",
+    "main.js.map": "/my-music/static/js/main.35c88a25.chunk.js.map",
+    "runtime-main.js": "/my-music/static/js/runtime-main.5fdc411d.js",
+    "runtime-main.js.map": "/my-music/static/js/runtime-main.5fdc411d.js.map",
+    "static/js/2.e3942cbd.chunk.js": "/my-music/static/js/2.e3942cbd.chunk.js",
+    "static/js/2.e3942cbd.chunk.js.map": "/my-music/static/js/2.e3942cbd.chunk.js.map",
+    "index.html": "/my-music/index.html",
+    "precache-manifest.bdf6d82af583d5ad83767748bb1de26b.js": "/my-music/precache-manifest.bdf6d82af583d5ad83767748bb1de26b.js",
+    "service-worker.js": "/my-music/service-worker.js",
+    "static/css/main.1eb46796.chunk.css.map": "/my-music/static/css/main.1eb46796.chunk.css.map",
+    "static/js/2.e3942cbd.chunk.js.LICENSE.txt": "/my-music/static/js/2.e3942cbd.chunk.js.LICENSE.txt",
+    "static/media/music.css": "/my-music/static/media/bgperson.0caf5730.jpg",
+    "static/media/controller.png": "/my-music/static/media/controller.5849c6a4.png",
+    "static/media/disk2.png": "/my-music/static/media/disk2.ba1d2a3c.png",
+    "static/media/all.min.css": "/my-music/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/index.css": "/my-music/static/media/titillium.57e937e4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdc411d.js",
+    "static/js/2.e3942cbd.chunk.js",
+    "static/css/main.1eb46796.chunk.css",
+    "static/js/main.35c88a25.chunk.js"
+  ]
+}
